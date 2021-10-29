@@ -1,3 +1,5 @@
+//Program for Qucick Sort
+
 #include<stdio.h>
 int swap = 0;
 void printArray(int A[], int n){
